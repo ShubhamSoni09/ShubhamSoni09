@@ -15,5 +15,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=shubhamsoni09&show_icons=true&theme=radical&locale=en" alt="shubhamsoni09" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsoni09&" alt="shubhamsoni09" /></p
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsoni09&" alt="shubhamsoni09" /></p>
 
