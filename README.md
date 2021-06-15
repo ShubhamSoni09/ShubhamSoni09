@@ -15,5 +15,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=shubhamsoni09&show_icons=true&theme=radical&locale=en" alt="shubhamsoni09" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsoni09&" alt="shubhamsoni09" /></p>
+<img height="180em"src="https://camo.githubusercontent.com/1bfbfc6a8a70733dcd91a8043cd276394d1032fc34df5c6d79000175f52ad172/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726f68616e6d697474616c313336362673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ShubhamSoni09&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
 
