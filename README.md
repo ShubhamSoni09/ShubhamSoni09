@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development**
 
-- 📫 How to reach me **(Email) sonishubham.v@gmail.com OR 18bec110@nirmauni.ac.in**
+- 📫 How to reach me **(Email) sonishubham.v@gmail.com OR ssoni4@buffalo.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
