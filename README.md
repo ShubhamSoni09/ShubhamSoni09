@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **a camping website made using MERN stack.**
 
-- 🌱 I’m currently learning **Web Development**
-
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development**
 
 - 📫 How to reach me **(Email) sonishubham.v@gmail.com OR ssoni4@buffalo.edu**
