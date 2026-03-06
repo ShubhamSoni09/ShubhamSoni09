@@ -3,7 +3,7 @@
 
 🎓 MS Computer Science @ University at Buffalo | Ex-Software Engineer with 3+ years of industry experience
 
-🔭 Building across full-stack, backend systems, and applied AI — from system design to production deployment
+🔭 Building across full-stack, backend systems, and applied AI - from system design to production deployment
 
 💡 Passionate about solving real-world problems with clean, scalable code and LLM-integrated products
 
