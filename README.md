@@ -9,7 +9,7 @@
 
 🚀 Seeking full-time SWE / AI Engineering roles starting January 2026
 
-📫 How to reach me **(Email) sonishubham.v@gmail.com OR ssoni4@buffalo.edu**
+📫 How to reach me **(Email) shubhamvsoni.04@gmail.com OR ssoni4@buffalo.edu**
 
 
 
