@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsoni09&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsoni09" /> </p>
 
-🎓 MS Computer Science @ University at Buffalo | Software Engineer with 3+ years of industry experience
+🎓 Graduated with MS Computer Science @ University at Buffalo | Software Engineer with 3+ years of industry experience
 
 🔭 Building across full-stack, backend systems, and applied AI - from system design to production deployment
 
