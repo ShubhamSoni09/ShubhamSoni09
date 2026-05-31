@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Soni</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJ0NjJrY3N4NG5xZXA5NnVjNm11MXF3b2N1aTNjaHV0OGc0dTZkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+</p>
+
 🎓 Recently Graduated with M.S. Computer Science @ University at Buffalo
 
 💻 Software Engineer with 3+ years of experience across AI, backend, and full-stack development
