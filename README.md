@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Soni</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Shubham%20Soni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer&descAlignY=58"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="700"/>
 </p>
 
 🎓 Recently Graduated with M.S. Computer Science @ University at Buffalo
