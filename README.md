@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsoni09&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsoni09" /> </p>
+🎓 Recently Graduated with M.S. Computer Science @ University at Buffalo
 
-🎓 Graduated with MS Computer Science @ University at Buffalo | Software Engineer with 3+ years of industry experience
+💻 Software Engineer with 3+ years of experience across AI, backend, and full-stack development
 
-🔭 Building across full-stack, backend systems, and applied AI - from system design to production deployment
+🚀 Previously at RelateCX, Zensar Technologies, o2h Technology, Accenture, and UB-CII, building AI agents, scalable microservices, cloud platforms, and enterprise applications
 
-💡 Passionate about solving real-world problems with clean, scalable code and LLM-integrated products
+🤖 Passionate about LLMs, AI Agents, RAG systems, Distributed Systems, and Full-Stack Development
 
-🚀 Seeking full-time SWE / AI Engineering roles starting January 2026
+⚙️ Tech Stack: Java, Python, TypeScript, React, Next.js, Node.js, Spring Boot, FastAPI, AWS, Docker, Kubernetes
 
-📫 How to reach me **(Email) shubhamvsoni.04@gmail.com OR ssoni4@buffalo.edu**
+📍 San Francisco, CA | Open to Software Engineer & AI Engineer roles
 
-
-
-  
+📫 [shubhamvsoni.04@gmail.com](mailto:shubhamvsoni.04@gmail.com) | linkedin.com/in/shubhamsoni1
