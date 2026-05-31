@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Soni</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+  <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1df2e4-7f3a-4f71-9e18-3b9f0b4cda54.gif" width="700"/>
 </p>
 
 🎓 Recently Graduated with M.S. Computer Science @ University at Buffalo
