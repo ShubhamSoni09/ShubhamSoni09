@@ -14,7 +14,3 @@
 
 📫 [shubhamvsoni.04@gmail.com](mailto:shubhamvsoni.04@gmail.com) | linkedin.com/in/shubhamsoni1
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
