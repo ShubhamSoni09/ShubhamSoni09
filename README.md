@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Soni</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="700"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
 
 🎓 Recently Graduated with M.S. Computer Science @ University at Buffalo
