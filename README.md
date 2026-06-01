@@ -6,7 +6,7 @@
 
 🚀 Previously at RelateCX, Zensar Technologies, o2h Technology, Accenture, and UB-CII, building AI agents, scalable microservices, cloud platforms, and enterprise applications
 
-🌐 Active Open Source Contributor | Meshery
+🌐 Active Open Source Contributor 
 
 🤖 Passionate about LLMs, AI Agents, RAG systems, Distributed Systems, and Full-Stack Development
 
